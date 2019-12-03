@@ -1,32 +1,3 @@
-# The Gilded Rose Code Kata
-
-This is forked from Jim Weirich's Ruby version of the Gilded Rose Kata, found
-[here](http://iamnotmyself.com/2011/02/13/refactor-this-the-gilded-rose-kata/).
-
-You can read
-[the original kata article](http://iamnotmyself.com/2011/02/13/refactor-this-the-gilded-rose-kata/) for more details.
-
-## Installation Hints
-
-The easiest way is to use bundler to install the dependencies. To do so, you need to install the bundler gem if you haven't already done so
-
-    gem install bundler
-
-run bundler
-
-    bundle
-
-and should be ready to go. Alternatively, you can install the dependencies one by one using gem install, e.g.
-
-    gem install rspec-given
-
-Have a look at the Gemfile for all dependencies.
-
-## Git Branches
-
-* The 'master' branch contains the starting point for the kata.  It is
-  also tagged as 'start-here'.
-
 # Original Description of the Gilded Rose
 
 Hi and welcome to team Gilded Rose. As you know, we are a small inn
